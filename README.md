@@ -5,7 +5,7 @@ Hello World
 App allows user to click a button to change the color of the text, "Hello from Albert", to change from grey to white.
 
 ### App Walk-though
-<img src="https://recordit.co/1sddfYSukd" width=200><br>
+<img src="https://s3.amazonaws.com/img0.recordit.co/1sddfYSukd.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1659493862&Signature=oNQ4PLrVyrLFsOUYtatNtEcWNOc%3D" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
